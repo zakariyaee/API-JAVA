@@ -38,6 +38,7 @@ Pour utiliser cette API dans votre projet, vous devez :
 
 1. Ajouter le fichier JAR de l'API à votre projet
 2. Configurer les propriétés de connexion à votre base de données
+3. ajouter la dependance convenable a votre fichier .XMl (pour MySQL pas necessaire)
 
 ### Ajouter le JAR à votre projet
 
